@@ -12,3 +12,5 @@
 
 ### 其他
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrXck&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=MrXck&layout=compact" />
+
