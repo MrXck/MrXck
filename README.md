@@ -11,6 +11,5 @@
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
 ### 其他
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrXck&layout=compact" />
 <img src="https://github-readme-stats.vercel.app/api?username=MrXck&layout=compact" />
 
