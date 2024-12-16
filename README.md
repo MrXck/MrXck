@@ -3,8 +3,8 @@
 - 联系方式: 1971877559@qq.com
 - 个人博客: [Xck的blog](http://110.42.211.207/cms/index)
 - 个人作品：
-    - [待办事项](http://110.42.211.207/todo/) 使用 Vue3 + SpringBoot
-    - [记账软件](http://110.42.211.207/account/) 使用 flutter + SpringBoot
+    - [待办事项](https://www.yuumi.cc/todo/) 使用 Vue3 + SpringBoot
+    - [记账软件](https://www.yuumi.cc/account/) 使用 flutter + SpringBoot
 - 关于我：一个想要学会所有感兴趣的技术的普通人
 
 ### 技能
